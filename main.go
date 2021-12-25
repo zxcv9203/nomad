@@ -1,18 +1,21 @@
 package main
 
-import (
-	"fmt"
-	"log"
-
-	"github.com/zxcv9203/nomad/mydict"
-)
+import "fmt"
 
 func main() {
-	dictionary := mydict.Dictionary{"first": "first word"}
-	find, err := dictionary.Search("first")
-	if err != nil {
-		log.Println(err)
-	} else {
-		fmt.Println(find)
+	c := make(chan string)
+
+	people := [2]string{"yongckim", "nico"}
+	for _, person := range people {
+		go isSexy(person, c)
 	}
+	for i := 0; i < len(people); i++ {
+		fmt.Println(i)
+		fmt.Println(<-c)
+	}
+
+}
+
+func isSexy(person string, c chan string) {
+	c <- person + " is sexy"
 }
