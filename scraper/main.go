@@ -39,6 +39,7 @@ func main() {
 
 func writeJobs(jobs []extractedJob) {
 	file, err := os.Create("jobs.csv")
+	c := make(chan []string)
 	checkErr(err)
 	defer file.Close()
 	w := csv.NewWriter(file)
@@ -49,8 +50,14 @@ func writeJobs(jobs []extractedJob) {
 	checkErr(err)
 
 	for _, job := range jobs {
-		jobSlice := []string{job.id, job.title, job.location, job.salary, job.summary}
-		err = w.Write(jobSlice)
+		go func(job extractedJob) {
+			c <- []string{job.id, job.title, job.location, job.salary, job.summary}
+		}(job)
+		checkErr(err)
+	}
+	for range jobs {
+		job := <-c
+		err = w.Write(job)
 		checkErr(err)
 	}
 }

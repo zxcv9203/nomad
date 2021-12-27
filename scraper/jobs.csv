@@ -1,76 +1,76 @@
 ID,Title,Location,Salary,Summary
-job_76152b2fa6809886,Back-end Developer,AITRICS서울,,"Stacks [Back-end] Language: python, golang Python Framework: Django, Bottle [Front... Language: python, golang Python Framework..."
+job_36ae5f764253d121,AI 연구 MLOps,코그넷나인서울 서초구,,"Deployment System) Kubernetes GPU Cluster 관리 자격요건 Python, Golang 을 이용한 실무 개발 경험 Git 사용 실무 경험 3년 이상 Linux 인프라 세팅 및 백엔드 개발..."
+job_20a0152224014ea2,영상보안 코어 연구개발,Success Korea서울 충무로역+1 지역,,"소프트웨어 개발 [자격요건] - 개발경력 3년 이상 - 개발환경 : Golang, FFMPEG, C/C++ - 다양한 라이브러리 활용 경험 - 코어... 개발경력 3년 이상 - 개발환경 : Golang, FFMPEG, C/C++..."
+job_e77e0b66428b0b4d,Open source stack software engineering lead,Canonical - Jobs서울,,"SAAS. Our primary software engineering stack is Python, Golang, React, Rust and Kubernetes... course we touch so many..."
+job_a5f72db70e317024,[카카오톡] 콘텐츠 구독 서비스 개발자 모집,카카오4.0성남 판교역,,"Cassandra, HBase, MongoDB 등)기반 개발 경험 소셜 네트워크나 구독 기반 서비스 개발 경험 golang 기반 웹서비스 개발 경험 데이터 처리 프레임웍(Hadoop, Spark, kafka, ELK 등..."
+job_e2461a0de4efb67f,Software Engineer - Korea,MOLOCO서울 강남구,,second. Current stack consists of proprietary code in Golang as well as Google Cloud Products including Bigtable and BigQuery...
+job_6c70ee2fc3122925,[NAVER Cloud] MySQL 데이터베이스 엔지니어 (DBA),네이버서울,,"새로운 기술이나 New Feature에 대한 높은 관심 - 기본적인 수준의 프로그래밍 (C, Python, Golang등) 능력 [ 우대사항] - 대규모/대용량 DB 운영환경을 경험하신 분 - 끊임없이 공부하고 적극적으로..."
+job_f38deda26266c40f,Sr Solutions Engineer,f5서울,,"one or more programming languages (Python, JavaScript, Golang, etc.) What you’ll bring: • 5 + years of related industry..."
 job_f92ff70dd4351921,[NAVER Cloud] Video Conference 서비스 개발,네이버서울,,"발을 경험하신 분 - tcpdump, wireshark 등의 툴로 네트워크 및 패킷 분석 가능하신 분 - Golang, C, C++, Python, node.js, typescript 등으로 작성된 코드 및 프레임워크를 분석..."
-job_ebb0bf3baf1d2bd4,[NAVER Cloud] PostgreSQL 데이터베이스 엔지니어 (DBA),네이버클라우드성남 분당구,,"PostgreSQL 데이터베이스 설계, 구축, 운영, 트러블 슈팅 능력- Backend 프로그래밍 협업 능력 ( Golang, Java 등)[우대사항] 인터넷·IT·통신·모바일·게임>웹프로그래머>백엔드|인터넷·IT·통신·모바..."
-job_08a2bad8cd818857,Software Engineering Director,Canonical - Jobs서울,,"Ubuntu Server, Ubuntu Desktop, and IoT. We prefer to work in Golang, Python and Rust, but we touch many languages as part..."
+job_112659bfb23fd233,DevSecOps Engineer,IBM3.9서울,,"CLI is a plus Scrum experience is a plus. Familiarity with Golang, Java or Scala is plus Education and Training BS Computer..."
 job_fe72ba7972e2841e,Software Engineering Manager - Canonical Fast Track,Canonical - Jobs서울,,You have deep experience with either or both Python and Golang. You may also have front-end web engineering experience...
-job_335b6cdc85206ccc,DevOps/MLOps Engineer,AITRICS서울,,"Stacks [Back-end] Language: python, golang Python Framework: Django, Bottle [Front... Language: python, golang Python Framework..."
 job_c2f271fbd2fa95e7,Software Engineer Intern - Korea,MOLOCO서울 강남구,,second. Current stack consists of proprietary code in Golang as well as Google Cloud Products including Bigtable and BigQuery...
 job_d4fedbedf819ba56,AI 인공지능 서비스 플랫폼 개발자,코그넷나인서울 서초구,,"B2B 어플리케이션 Front-end, Back-end 구축 개발 자격요건 JAVA, Node.js, Golang 중 1가지 이상의 언어로 Back-end 개발 5년차 이상 버전 관리 시스템(Git) 사용 경험자..."
-job_f38deda26266c40f,Sr Solutions Engineer,f5서울,,"one or more programming languages (Python, JavaScript, Golang, etc.) What you’ll bring: • 5 + years of related industry..."
-job_0c32e6464cad3b0a,[카카오 클라우드]DBaaS(DataBase As A Service) 개발자 모집,카카오4.0성남 판교역,,"DBaaS 운영 및 유지 보수 지원자격 필수 자격 협업을 우선 가치로 유연한 커뮤니케이션이 가능하신 분 golang, python 등으로 API 기반 서비스를 구현해본 경험이 있으신 분 서비스 요구 사항을 기능으로 구현..."
+job_335b6cdc85206ccc,DevOps/MLOps Engineer,AITRICS서울,,"Stacks [Back-end] Language: python, golang Python Framework: Django, Bottle [Front... Language: python, golang Python Framework..."
 job_40d39d9837f8ffbd,Dev Lead,Startbahn서울,,"end development in major programming languages... Java, Golang, Ruby, JavaScript (TypeScript) , etc * Proficient skills..."
-job_a5f72db70e317024,[카카오톡] 콘텐츠 구독 서비스 개발자 모집,카카오4.0성남 판교역,,"Cassandra, HBase, MongoDB 등)기반 개발 경험 소셜 네트워크나 구독 기반 서비스 개발 경험 golang 기반 웹서비스 개발 경험 데이터 처리 프레임웍(Hadoop, Spark, kafka, ELK 등..."
 job_3ee36bdc09e03808,Korea - Site Reliability Engineering Lead,Nike4.1서울,,"enterprise languages (functional or other -Scala, Python, Golang, etc.) is preferred • Understanding of DNS, Networking..."
-job_e2461a0de4efb67f,Software Engineer - Korea,MOLOCO서울 강남구,,second. Current stack consists of proprietary code in Golang as well as Google Cloud Products including Bigtable and BigQuery...
-job_e77e0b66428b0b4d,Open source stack software engineering lead,Canonical - Jobs서울,,"SAAS. Our primary software engineering stack is Python, Golang, React, Rust and Kubernetes... course we touch so many..."
-job_5d92c758de53c059,[TmaxCloud/R&D] Cloud 부문 개발 연구원 신입 및 경력,티맥스소프트성남 분당구,,"험자 - Golang 개발 유경험자 [인프라] - CKA 자격증 보유자 - Kubernetes 및 VM 관리 시스템 유경험자 - 네트워크, 스토리지, 서버 연구/관리 유경험자 [주 사용 언어] - Golang - Java..."
-job_8fd9ce3f217e75ee,[동영상플랫폼] 플랫폼서버 개발자 모집,카카오4.0성남 판교역,,플레이 워크플로우 관리 및 개발 플랫폼 모니터링 시스템 지원자격 [최소 자격] 개발 경력 2년 이상 golang으로 프로젝트 진행 경험이 있는 분 네트워크 프로그래밍 경험이 있는 분 메세지 큐를 활용한 마이크로서비스...
-job_9131ec39a3e95fe6,[카카오 클라우드] 애플리케이션플랫폼(APaaS) 서버 개발자 모집,카카오4.0성남 판교역,,"기본조건] 컴퓨터공학 학사 전공 혹은 그에 준하는 경력 클라우드 서비스에 관심 있으신 분 Java, Golang 중 한 가지 언어를 능숙하게 사용할 수 있으신 분 하나 이상의 DBMS 사용 경험이 있으신 분 [우대사항..."
-job_011806f0e8a599fb,DevOps Engineer,Soomgo서울 강남구,,"상용 웹, 앱 서비스 Back-end, 또는 DevOps 업무 경험이 있으시거나 이에 준하는 역량을 갖추신 분 Golang, Python, bash script 등 1가지 이상의 스크립트 언어 사용에 능숙하신 분 Linux..."
-job_c193b65defa6a4ec,Web 개발,Success Korea서울 중구,,"Server 경험자 - CMS 관리페이지 구축 경험자 [우대사항] - GoLang 개발 경험자 - 가상화, Docker 기술 경험자 - 네트워크... 경험자 [우대사항] - GoLang 개발 경험자 - 가상화, Docker..."
-job_7bd653de2e932172,A.I 연구개발,Success Korea서울 충무로역,,"Vision, AI(Deep Learning) [우대사항] - Golang 개발 경험 - 영상(MPEG), RTSP 관련 지식 - Docker등... Learning) [우대사항] - Golang 개발 경험 - 영상..."
-job_f757894d087d2c14,Embedded Linux Consulting Engineering Director,Canonical - Jobs서울,,"Debian or Ubuntu preferred Fluency... least one of Golang, Python, C, C++, or Rust Readiness to manage a small team..."
-job_1408be55536c8b20,Senior Server Engineer,뱅크샐러드서울 영등포구,,개발자들에게 코칭 제공 자격 요건 5년 이상 서버 엔지니어링 경험 보유 Golang/Java(Kotlin)/Python 중 하나 이상에 전문성을 보유... 창출한 앱서비스 개발 경험 보유 Golang으로 프로젝트를 진행하는데 거부...
-job_20a0152224014ea2,영상보안 코어 연구개발,Success Korea서울 충무로역+1 지역,,"소프트웨어 개발 [자격요건] - 개발경력 3년 이상 - 개발환경 : Golang, FFMPEG, C/C++ - 다양한 라이브러리 활용 경험 - 코어... 개발경력 3년 이상 - 개발환경 : Golang, FFMPEG, C/C++..."
-job_8cfba12674f9f025,Lead Medical AI SW Developer,AITRICS서울,,"Stacks [Back-end] Language: python, golang Python Framework: Django, Bottle [Front... Language: python, golang Python Framework..."
-job_86c66f187b997e11,A.I 연구개발[시니어],Success Korea서울 충무로역,,"10년 이상 [우대사항] - 영상관련 AI 연구개발 경력자 우대 - Golang 개발 경험 - 영상(MPEG), RTSP 관련 지식 - Docker... AI 연구개발 경력자 우대 - Golang 개발 경험 - 영상(MPEG..."
-job_770d8dbd60244c8e,VMS 개발자,Success Korea서울 충무로역,,"자격요건] - 개발경력 7년차 이상 - C/C++ 개발자 - C# , GoLang 우대 - 기타 DMBS, 서버 프로그래밍 경력 우대 [우대사항... C/C++ 개발자 - C# , GoLang 우대 - 기타 DMBS, 서버..."
-job_92a21879f94cd507,[리니지M] DB 프로그래머 모집,엔씨소프트2.7성남 판교역,,무에 임할 수 있으신 분 우대사항 다음 항목 중 조건이 하나 이상인 분 우대합니다. - C# - 파이썬 - Golang 유관 팀간 커뮤니케이션을 잘 이끌수 있는 분 우대합니다. 제출서류 필수 제출서류 없음 전형단계 서류전형...
-job_9d2eee513761aded,DB Engineer 모집,카카오4.0성남 판교역,,"것이 즐거운 분 원활한 커뮤니케이션이 가능하신 분 [우대사항] 대용량 DBMS 운영 경험이 있는 분 Golang, Python, Java등으로 API 기반 서비스 개발이 가능한 분 React, Vue.js 등 프론트개발..."
-job_1609f2d552c3a6b8,AI 딥러닝 AWS 클라우드 시스템 차량용 블랙박스 펌웨어 및 ISP 튜닝,400억 매출의 차량용 블랙박스 개발 유통 / 클라우드 서비스 / 차량관제 서비스 개발...성남 분당구,,"개발 - 클라우드 시스템 설계 및 개발 - 리눅스 서버개발 • 자격요건 - 초대졸이상 - 10년 이하 - Golang 및 C 기반 서버 프로그래밍 개발 경험자 - MySQL, MongoDB 사용 개발 경험자 - 네트워크/병렬..."
-job_a3c4a6f785f437d1,지리정보 플랫폼 개발자,당근마켓서울 서초구,,"Service) 개발 경험을 보유하신 분 ArcGIS, QGIS 등 map editor 사용 및 활용 경험이 있으신 분 Golang 사용 및 활용 경험이 있으신 분 인터넷·IT·통신·모바일·게임>통신·모바일>플랫폼(VM)"
-job_3cf01580ba5eb23a,NLP Researcher,AITRICS서울,,"Stacks [Back-end] Language: python, golang Python Framework: Django, Bottle [Front... Language: python, golang Python Framework..."
-job_27f1fd44afefb4aa,[인재 POOL 등록] 개발자 상시채용,고도소프트서울 구로구,,사용 능력이 우수하신 분 [DevOps 개발자] -경력 2년 이상 -Java/Kotlin/Python/ Golang 개발환경 경험이 있으신 분 -Linux 환경의 서비스 경험이 있으신 분 -새로운 환경을 익히는 것에 즐거움을...
-job_6f9c4c57f821363e,[뉴플랫폼기술] 클라우드 개발자 - Kubernetes,한국카카오은행성남 분당구,,"Orchestration 운영 경험이 1년 이상인 분· Cloud 환경에서 서비스 구축 및 운영 경험이 있는 분· Golang, Python, NodeJS, Java 중 하나이상 프로그래밍 언어에 익숙한 분 인터넷·IT·통신..."
-job_34d826908be45b5e,[NAVER Cloud] Blockchain 서비스 개발,네이버서울,,"프로젝트 경험 - dApp 및 smartcontract 개발 경험(java, node, golang 중 1개) - Spring framework 및 golang 이용한 Application 개발 경험 [지원자격/ 우대사항..."
-job_17f88502b8fc4881,[NAVER Cloud] 클라우드 네트워크 솔루션 및 SDN 기술 개발,네이버서울,,Network 관련 연구/개발/운영 [지원자격/ 필요역량] - Network 관련 기반 지식 보유 - Golang or C 를 이용한 Network 관련 개발 경험 [ 우대사항] - Public Cloud 운영/개발 경험...
-job_8da5c72baf146123,Site Engineer (Seoul),Motion2AI서울,,분을 찾고 있습니다. 지원자격 필수조건 Linux/Windows 시스템 능숙 C++/Python/ Golang 등 코드 컴파일 및 디버깅 경험 우대조건 물류관련 프로젝트 경험 CS 및 관련 학과 출신 PostgreSQL...
-job_3769c08586c04026,[인재 POOL ] 개발자 상시,NHN COMMERCE] [인재 POOL 등록4.4서울 구로구,,CI / CD 환경 구축 - 플랫폼 보안 관리 - 경력 2년 이상 - Java/Kotlin/Python/ Golang 개발환경 경험이 있으신 분 - Linux 환경의 서비스 경험이 있으신 분 - 새로운 환경을 익히는...
-job_8c32b5db8ab28c7d,"[광고 추천] 데이터 과학자, 기계학습(머신러닝) 전문가 모집",카카오4.0성남 판교역,,"분 하나 이상의 프로그래밍 언어에 능통한 분 (예, Python, R, Java, Scala, C/C++, Golang 등) 단, 주니어는 기계학습 기초 지식과 개발 역량이 있는 분 <선호 자격 조건> 전공/학위 무관. 단..."
-job_84acbce756f138ed,블록체인 기술 리더 채용,한화그룹4.2서울,,"아키텍트 경험 3년 이상 (기업 시스템 SI, 서비스 시스템) SW 개발 경력 7년 이상 (java, Golang, NodeJs, TypeScript, RDBMS, NoSQL 등) 업무 SW 설계 경력 3년 이상 (UML..."
-job_5ea9ea023c6ccc03,"S/W 엔지니어, 데이터분석 신입/경력 정규직, 인턴",가치랩스성남 분당구,,"시스템, 서버, 어플리케이션 제작 및 유지보수 업무- Python, Golang, QT 중 선택 가능3. 영상데이터 분석 및 모델링- 영상 데이터... 시스템프로그래머- Python, Golang, QT 중 선택 가능3. 영상..."
-job_f862c821b0734933,[NAVER Cloud] Media 서비스 개발,네이버서울,,"tcpdump, wireshark 등의 툴로 네트워크 및 패킷 분석 가능하신 분 - Java, Kotlin, Golang, C, C++, Python, node.js, typescript 등으로 작성된 코드 및 프레임워크를..."
-job_b4a7ac21faba2e67,검색 인프라 엔지니어,당근마켓서울 서초구,,"근하고 관리해요 이런 분을 찾고 있어요 널리 쓰이는 프로그래밍 언어( Golang, java, python, c++, javascript 등) 한 가지... 시는 분 이런 분이면 더 좋아요! Golang 개발 경험이 있으신 분대규모..."
-job_f1d1ecd9e101903a,[LINE FRIENDS] Backend Server Engineer (Character Platform),라인프렌즈서울 용산구,,컴퓨터 공학 학사 또는 이에 준하는 실무 경험이 있으신 분- MSA 설계 및 개발 경험이 있으신 분- Golang 또는 다른 언어를 사용한 프로젝트 개발 경험이 있으신 분- RESTful API 대한 이해 및 사용 경험이...
-job_94f677b692f3a539,블록체인 기술 리더,한화시스템서울,,"아키텍트 경험 3년 이상 (기업 시스템 SI, 서비스 시스템)○ SW 개발 경력 7년 이상 (java, Golang, NodeJs, TypeScript, RDBMS, NoSQL 등)○ 업무 SW 설계 경력 3년 이상 (UML..."
-job_112659bfb23fd233,DevSecOps Engineer,IBM3.9서울,,"CLI is a plus Scrum experience is a plus. Familiarity with Golang, Java or Scala is plus Education and Training BS Computer..."
-job_6141229c69b83068,Web Front-end 개발자,코그넷나인서울 서초구,,"Script, MariaDB 개발 플랫폼 : Visual Studio Code 우대 사항 : Python, Golang, RESTful API, Node.js, CSS, Docker, AWS, Azure, GCP [자격요건..."
-job_91aa3bd221ee815b,AI Service Planning/Business Development,AITRICS서울,,"Stacks [Back-end] Language: python, golang Python Framework: Django, Bottle [Front... Language: python, golang Python Framework..."
-job_78a76c59a8503bc4,[NAVER Cloud] 클라우드 네트워크 솔루션 및 SDN 기술 개발,네이버클라우드성남 분당구,,Hypervisor Network 관련 연구/개발/운영[지원자격/필요역량]- Network 관련 기반 지식 보유- Golang or C 를 이용한 Network 관련 개발 경험 인터넷·IT·통신·모바일·게임>네트워크·서버...
-job_99b17cdf7773a816,Machine Learning Engineer - Korea,MOLOCO서울,,"one or more programming languages including Python, Java, and Golang. Knowledgeable with production-level machine learning..."
-job_08a43e5a809534dd,Software Engineer for MBUX Online Entertainment Music and Vi...,Mercedes-Benz Korea Limited4.0서울,,backend application development experience (e.g. using Golang) - Experience in software development using agile methods...
-job_c89631d6bc2563e7,클라우드 인프라 플랫폼 관리자 모집,KB데이타시스템서울 도화동,,이해 • K8S 구축/운영 경험 [우대사항] • 오픈 소스 구축 및 활용 경험 • Java/Python/ Golang 중 1가지 이상 사용 경험 • Devops에 대한 이해 및 경험 • 클라우드 아키텍처 설계 및 구축 경험...
-job_ef6281799ef98976,[NAVER Cloud] PostgreSQL 데이터베이스 엔지니어 (DBA),네이버서울,,"PostgreSQL 데이터베이스 설계, 구축, 운영, 트러블 슈팅 능력 - Backend 프로그래밍 협업 능력 ( Golang, Java 등) [ 우대사항] - 뜻있는 개발자 출신 DBA 우대 - 대규모/대용량 DB 운영환경..."
-job_5123207a169f90eb,Lead AI Platform Developer,AITRICS서울,,"Stacks [Back-end] Language: python, golang Python Framework: Django, Bottle [Front... Language: python, golang Python Framework..."
+job_08a2bad8cd818857,Software Engineering Director,Canonical - Jobs서울,,"Ubuntu Server, Ubuntu Desktop, and IoT. We prefer to work in Golang, Python and Rust, but we touch many languages as part..."
+job_ebb0bf3baf1d2bd4,[NAVER Cloud] PostgreSQL 데이터베이스 엔지니어 (DBA),네이버클라우드성남 분당구,,"PostgreSQL 데이터베이스 설계, 구축, 운영, 트러블 슈팅 능력- Backend 프로그래밍 협업 능력 ( Golang, Java 등)[우대사항] 인터넷·IT·통신·모바일·게임>웹프로그래머>백엔드|인터넷·IT·통신·모바..."
 job_a8f5052757d0f803,[NAVER Cloud] PaaS-TA 서비스 개발,네이버서울,,"네이버 클라우드 플랫폼 PaaS-TA 서비스 개발 및 운영 [ 필요역량] - 관련 경력 3년 이상 - golang을 이용한 Application 개발 경험 - Ansible, Cloudfoundry(bosh) 사용 경험..."
-job_6c70ee2fc3122925,[NAVER Cloud] MySQL 데이터베이스 엔지니어 (DBA),네이버서울,,"새로운 기술이나 New Feature에 대한 높은 관심 - 기본적인 수준의 프로그래밍 (C, Python, Golang등) 능력 [ 우대사항] - 대규모/대용량 DB 운영환경을 경험하신 분 - 끊임없이 공부하고 적극적으로..."
-job_8cb8277ebdd78c52,[NAVER Cloud] Kubernetes 서비스 개발,네이버서울,,"Kubernetes Service 개발 및 운영 [지원자격/ 필요역량] - 관련 경력 3년 이상 - golang을 이용한 Application 개발 경험 - Ansible 사용 경험 - Docker, kubernetes 를..."
-job_36ae5f764253d121,AI 연구 MLOps,코그넷나인서울 서초구,,"Deployment System) Kubernetes GPU Cluster 관리 자격요건 Python, Golang 을 이용한 실무 개발 경험 Git 사용 실무 경험 3년 이상 Linux 인프라 세팅 및 백엔드 개발..."
-job_36089807638eb8cb,Backend Engineer,Motion2AI서울,,"서버 기반 통신 방법을 제공합니다. 필수 조건 3년 이상 개발 경험 Restful API 개발 경험 Golang, NodeJS 등 서버 개발 경험 PostgreSQL 등 데이터베이스 활용 경험 전산학 및 관련 학과 학사..."
+job_91aa3bd221ee815b,AI Service Planning/Business Development,AITRICS서울,,"Stacks [Back-end] Language: python, golang Python Framework: Django, Bottle [Front... Language: python, golang Python Framework..."
 job_ed3fca8fd84bb2c6,Server Engineer,뱅크샐러드서울 영등포구,,대한 지식 및 판단을 토대로 뱅크샐러드 적용 가능성 제시 자격 요건 Golang/Java(Kotlin)/Python 중 하나 이상을 이용한 서비스... 앱서비스 창업/운영 경험 보유 Golang으로 프로젝트를 진행하는데 거부감...
-job_d341b6f32b7ba6f7,영상 보안 코어 연구/개발,Success Korea서울 쌍림동,,"이상 - 개발 환경 : C++, Golang, ffmpeg - 다양한 라이... 국문이력서 자격요건 - 경력 3년 이상 - 개발 환경 : C++, Golang, ffmpeg - 다양한 라이브러리 활용 경험 - 코어 라이브러리..."
-job_042fdbd3871830e7,LINE Pay DevOps Engineer,라인비즈플러스성남 분당구,,"시스템 아키텍처 설계 및 기술 개발LINE Pay 서비스 모니터링 시스템 개발 및 운영 자격요건 Java, Golang, Python 등 1개 이상의 언어 사용이 능숙하신 분Unix/Linux 개발/운영 환경이 익숙하신 분대..."
-job_76ede5b272c46cad,AI분야 코스닥상장사 백엔드개발 경력 정규직,서치넷성남 분당구,,발해보거나 프로젝트를 진행해본 경험이 있으신 분 2) Python / golang 중 하나 이상을 능숙하게 사용하실 수 있으신 분 3) RESTFul... 있으신 분2) Python / golang 중 하나 이상을 능숙하게 사용하...
-job_6ad55e06021ddccb,MongoDB Engineer 모집,카카오4.0성남 판교역,,"영해본 경험이 있는 분 C/C++ 또는 Python 언어를 이용한 프로그램 개발(프로젝트) 경험이 있는 분 Golang, Python, Java등으로 API 기반 서비스 개발이 가능한 분 Openstack, K8S 환경 기반..."
-job_da31bde4edd9e61c,"[제론소프트엔]C++,Java,Golang개발자 건",제론소프트엔서울 필동,,"가능한 정도 손작업 : 큰 물품의 조립작업 양손사용 : 양손으로 작업 기타우대사항 C++,Java, Golang개발 가능자 전형방법 서류,면접 접수방법 워크투게더, 이메일 (개인회원 로그인 후 조회가능) 제출서류 준비물..."
-job_fb1e577c4ae5e817,영상보안 개발자,Success Korea서울 충무로역,,"10년 이상 - C/C++, Golang, FFMPEG - 영상처리 관련... 력서 자격요건 - 대졸이상 - 경력: 10년 이상 - C/C++, Golang, FFMPEG - 영상처리 관련 지식 - 개발환경 : 리눅스 - 멀티..."
-job_dd12e09c5af43c28,Head of Engineering,Startbahn서울,,"end development in major programming languages... Java, Golang, Ruby, JavaScript (TypeScript) , etc * Proficient skills..."
-job_ff02c790438df962,Software Engineer for Retail Media Platform - Korea,MOLOCO서울 강남구,,per second. The current stack consists of proprietary code in Golang as well as Google Cloud Products including Bigtable...
-job_3f447ad3451108ce,Engineering Manager / Tech Lead,뱅크샐러드서울 영등포구,,문화 장착 데이터에 기반한 팀 성과 모니터링 및 의사결정 자격요건 Golang/Java(Kotlin)/Python 중 하나 이상에 전문성을 보유... 즈니스 임팩트 창출 경험 Golang 프로젝트 진행 Microservice...
-job_68539861ea661845,영상보안 인공지능(AI)/컴퓨터비전[추가],Success Korea서울 쌍림동,,"Learning) [우대요건] - 병역 특례 신규, 이직 가능 - Golang 개발 경험 - 영상(MPEG), RTSP 관련 지식 - Docker등... 병역 특례 신규, 이직 가능 - Golang 개발 경험 - 영상(MPEG..."
+job_08a43e5a809534dd,Software Engineer for MBUX Online Entertainment Music and Vi...,Mercedes-Benz Korea Limited4.0서울,,backend application development experience (e.g. using Golang) - Experience in software development using agile methods...
+job_78a76c59a8503bc4,[NAVER Cloud] 클라우드 네트워크 솔루션 및 SDN 기술 개발,네이버클라우드성남 분당구,,Hypervisor Network 관련 연구/개발/운영[지원자격/필요역량]- Network 관련 기반 지식 보유- Golang or C 를 이용한 Network 관련 개발 경험 인터넷·IT·통신·모바일·게임>네트워크·서버...
 job_934a93d1545789ee,검색데브옵스 담당자 모집,다나와서울 목동,,"경력 (1~5년) - 검색데브옵스 개발 - 검색서비스 운영 - NodeJS, Java, Python, Golang 중 한가지 이상 개발 경험자 - Java Spring, Docker, Git, AWS에 대한 이해 보유자..."
+job_76152b2fa6809886,Back-end Developer,AITRICS서울,,"Stacks [Back-end] Language: python, golang Python Framework: Django, Bottle [Front... Language: python, golang Python Framework..."
+job_ef6281799ef98976,[NAVER Cloud] PostgreSQL 데이터베이스 엔지니어 (DBA),네이버서울,,"PostgreSQL 데이터베이스 설계, 구축, 운영, 트러블 슈팅 능력 - Backend 프로그래밍 협업 능력 ( Golang, Java 등) [ 우대사항] - 뜻있는 개발자 출신 DBA 우대 - 대규모/대용량 DB 운영환경..."
+job_99b17cdf7773a816,Machine Learning Engineer - Korea,MOLOCO서울,,"one or more programming languages including Python, Java, and Golang. Knowledgeable with production-level machine learning..."
+job_6141229c69b83068,Web Front-end 개발자,코그넷나인서울 서초구,,"Script, MariaDB 개발 플랫폼 : Visual Studio Code 우대 사항 : Python, Golang, RESTful API, Node.js, CSS, Docker, AWS, Azure, GCP [자격요건..."
+job_8cb8277ebdd78c52,[NAVER Cloud] Kubernetes 서비스 개발,네이버서울,,"Kubernetes Service 개발 및 운영 [지원자격/ 필요역량] - 관련 경력 3년 이상 - golang을 이용한 Application 개발 경험 - Ansible 사용 경험 - Docker, kubernetes 를..."
+job_c89631d6bc2563e7,클라우드 인프라 플랫폼 관리자 모집,KB데이타시스템서울 도화동,,이해 • K8S 구축/운영 경험 [우대사항] • 오픈 소스 구축 및 활용 경험 • Java/Python/ Golang 중 1가지 이상 사용 경험 • Devops에 대한 이해 및 경험 • 클라우드 아키텍처 설계 및 구축 경험...
+job_36089807638eb8cb,Backend Engineer,Motion2AI서울,,"서버 기반 통신 방법을 제공합니다. 필수 조건 3년 이상 개발 경험 Restful API 개발 경험 Golang, NodeJS 등 서버 개발 경험 PostgreSQL 등 데이터베이스 활용 경험 전산학 및 관련 학과 학사..."
+job_5123207a169f90eb,Lead AI Platform Developer,AITRICS서울,,"Stacks [Back-end] Language: python, golang Python Framework: Django, Bottle [Front... Language: python, golang Python Framework..."
+job_3f447ad3451108ce,Engineering Manager / Tech Lead,뱅크샐러드서울 영등포구,,문화 장착 데이터에 기반한 팀 성과 모니터링 및 의사결정 자격요건 Golang/Java(Kotlin)/Python 중 하나 이상에 전문성을 보유... 즈니스 임팩트 창출 경험 Golang 프로젝트 진행 Microservice...
 job_9a739372ece8a34f,Engineering Manager,Startbahn서울,,"end development in major programming languages... Java, Golang, Ruby, JavaScript (TypeScript) , etc * Proficient skills..."
+job_5d92c758de53c059,[TmaxCloud/R&D] Cloud 부문 개발 연구원 신입 및 경력,티맥스소프트성남 분당구,,"험자 - Golang 개발 유경험자 [인프라] - CKA 자격증 보유자 - Kubernetes 및 VM 관리 시스템 유경험자 - 네트워크, 스토리지, 서버 연구/관리 유경험자 [주 사용 언어] - Golang - Java..."
 job_5be9b908d4be09a4,Site Reliability Engineer (SRE) - IBM Client Engineering,IBM3.9서울,,"languages... Java, JavaScript... NET, Node.js, Scala or Golang. Required Technical and Professional Expertise..."
 job_97d7d9cb5103d9f5,영상보안[백엔드],Success Korea서울 쌍림동,,"3년 이상 - 개발 환경 : Golang, C++, SQL, Docker... 제출서류]국문이력서 자격요건 - 경력 3년 이상 - 개발 환경 : Golang, C++, SQL, Docker 등 [우대요건] - RTSP 관련..."
 job_d87d0b5c96dea835,영상보안 Backend 개발,Success Korea서울 충무로역,,"요건] - C/C++ 5년 이상자, Golang, FFMPEG - 영상처리... 종면접 [제출서류]국문이력서 자격요건 - C/C++ 5년 이상자, Golang, FFMPEG - 영상처리 관련 지식 - 개발환경 : 리눅스 -멀티..."
+job_ff02c790438df962,Software Engineer for Retail Media Platform - Korea,MOLOCO서울 강남구,,per second. The current stack consists of proprietary code in Golang as well as Google Cloud Products including Bigtable...
+job_68539861ea661845,영상보안 인공지능(AI)/컴퓨터비전[추가],Success Korea서울 쌍림동,,"Learning) [우대요건] - 병역 특례 신규, 이직 가능 - Golang 개발 경험 - 영상(MPEG), RTSP 관련 지식 - Docker등... 병역 특례 신규, 이직 가능 - Golang 개발 경험 - 영상(MPEG..."
+job_042fdbd3871830e7,LINE Pay DevOps Engineer,라인비즈플러스성남 분당구,,"시스템 아키텍처 설계 및 기술 개발LINE Pay 서비스 모니터링 시스템 개발 및 운영 자격요건 Java, Golang, Python 등 1개 이상의 언어 사용이 능숙하신 분Unix/Linux 개발/운영 환경이 익숙하신 분대..."
+job_da31bde4edd9e61c,"[제론소프트엔]C++,Java,Golang개발자 건",제론소프트엔서울 필동,,"가능한 정도 손작업 : 큰 물품의 조립작업 양손사용 : 양손으로 작업 기타우대사항 C++,Java, Golang개발 가능자 전형방법 서류,면접 접수방법 워크투게더, 이메일 (개인회원 로그인 후 조회가능) 제출서류 준비물..."
+job_dd12e09c5af43c28,Head of Engineering,Startbahn서울,,"end development in major programming languages... Java, Golang, Ruby, JavaScript (TypeScript) , etc * Proficient skills..."
+job_6ad55e06021ddccb,MongoDB Engineer 모집,카카오4.0성남 판교역,,"영해본 경험이 있는 분 C/C++ 또는 Python 언어를 이용한 프로그램 개발(프로젝트) 경험이 있는 분 Golang, Python, Java등으로 API 기반 서비스 개발이 가능한 분 Openstack, K8S 환경 기반..."
+job_f757894d087d2c14,Embedded Linux Consulting Engineering Director,Canonical - Jobs서울,,"Debian or Ubuntu preferred Fluency... least one of Golang, Python, C, C++, or Rust Readiness to manage a small team..."
+job_d341b6f32b7ba6f7,영상 보안 코어 연구/개발,Success Korea서울 쌍림동,,"이상 - 개발 환경 : C++, Golang, ffmpeg - 다양한 라이... 국문이력서 자격요건 - 경력 3년 이상 - 개발 환경 : C++, Golang, ffmpeg - 다양한 라이브러리 활용 경험 - 코어 라이브러리..."
+job_76ede5b272c46cad,AI분야 코스닥상장사 백엔드개발 경력 정규직,서치넷성남 분당구,,발해보거나 프로젝트를 진행해본 경험이 있으신 분 2) Python / golang 중 하나 이상을 능숙하게 사용하실 수 있으신 분 3) RESTFul... 있으신 분2) Python / golang 중 하나 이상을 능숙하게 사용하...
+job_92a21879f94cd507,[리니지M] DB 프로그래머 모집,엔씨소프트2.7성남 판교역,,무에 임할 수 있으신 분 우대사항 다음 항목 중 조건이 하나 이상인 분 우대합니다. - C# - 파이썬 - Golang 유관 팀간 커뮤니케이션을 잘 이끌수 있는 분 우대합니다. 제출서류 필수 제출서류 없음 전형단계 서류전형...
+job_c193b65defa6a4ec,Web 개발,Success Korea서울 중구,,"Server 경험자 - CMS 관리페이지 구축 경험자 [우대사항] - GoLang 개발 경험자 - 가상화, Docker 기술 경험자 - 네트워크... 경험자 [우대사항] - GoLang 개발 경험자 - 가상화, Docker..."
+job_1408be55536c8b20,Senior Server Engineer,뱅크샐러드서울 영등포구,,개발자들에게 코칭 제공 자격 요건 5년 이상 서버 엔지니어링 경험 보유 Golang/Java(Kotlin)/Python 중 하나 이상에 전문성을 보유... 창출한 앱서비스 개발 경험 보유 Golang으로 프로젝트를 진행하는데 거부...
+job_0c32e6464cad3b0a,[카카오 클라우드]DBaaS(DataBase As A Service) 개발자 모집,카카오4.0성남 판교역,,"DBaaS 운영 및 유지 보수 지원자격 필수 자격 협업을 우선 가치로 유연한 커뮤니케이션이 가능하신 분 golang, python 등으로 API 기반 서비스를 구현해본 경험이 있으신 분 서비스 요구 사항을 기능으로 구현..."
+job_fb1e577c4ae5e817,영상보안 개발자,Success Korea서울 충무로역,,"10년 이상 - C/C++, Golang, FFMPEG - 영상처리 관련... 력서 자격요건 - 대졸이상 - 경력: 10년 이상 - C/C++, Golang, FFMPEG - 영상처리 관련 지식 - 개발환경 : 리눅스 - 멀티..."
+job_7bd653de2e932172,A.I 연구개발,Success Korea서울 충무로역,,"Vision, AI(Deep Learning) [우대사항] - Golang 개발 경험 - 영상(MPEG), RTSP 관련 지식 - Docker등... Learning) [우대사항] - Golang 개발 경험 - 영상..."
+job_8cfba12674f9f025,Lead Medical AI SW Developer,AITRICS서울,,"Stacks [Back-end] Language: python, golang Python Framework: Django, Bottle [Front... Language: python, golang Python Framework..."
+job_1609f2d552c3a6b8,AI 딥러닝 AWS 클라우드 시스템 차량용 블랙박스 펌웨어 및 ISP 튜닝,400억 매출의 차량용 블랙박스 개발 유통 / 클라우드 서비스 / 차량관제 서비스 개발...성남 분당구,,"개발 - 클라우드 시스템 설계 및 개발 - 리눅스 서버개발 • 자격요건 - 초대졸이상 - 10년 이하 - Golang 및 C 기반 서버 프로그래밍 개발 경험자 - MySQL, MongoDB 사용 개발 경험자 - 네트워크/병렬..."
+job_770d8dbd60244c8e,VMS 개발자,Success Korea서울 충무로역,,"자격요건] - 개발경력 7년차 이상 - C/C++ 개발자 - C# , GoLang 우대 - 기타 DMBS, 서버 프로그래밍 경력 우대 [우대사항... C/C++ 개발자 - C# , GoLang 우대 - 기타 DMBS, 서버..."
+job_86c66f187b997e11,A.I 연구개발[시니어],Success Korea서울 충무로역,,"10년 이상 [우대사항] - 영상관련 AI 연구개발 경력자 우대 - Golang 개발 경험 - 영상(MPEG), RTSP 관련 지식 - Docker... AI 연구개발 경력자 우대 - Golang 개발 경험 - 영상(MPEG..."
+job_011806f0e8a599fb,DevOps Engineer,Soomgo서울 강남구,,"상용 웹, 앱 서비스 Back-end, 또는 DevOps 업무 경험이 있으시거나 이에 준하는 역량을 갖추신 분 Golang, Python, bash script 등 1가지 이상의 스크립트 언어 사용에 능숙하신 분 Linux..."
+job_9131ec39a3e95fe6,[카카오 클라우드] 애플리케이션플랫폼(APaaS) 서버 개발자 모집,카카오4.0성남 판교역,,"기본조건] 컴퓨터공학 학사 전공 혹은 그에 준하는 경력 클라우드 서비스에 관심 있으신 분 Java, Golang 중 한 가지 언어를 능숙하게 사용할 수 있으신 분 하나 이상의 DBMS 사용 경험이 있으신 분 [우대사항..."
+job_9d2eee513761aded,DB Engineer 모집,카카오4.0성남 판교역,,"것이 즐거운 분 원활한 커뮤니케이션이 가능하신 분 [우대사항] 대용량 DBMS 운영 경험이 있는 분 Golang, Python, Java등으로 API 기반 서비스 개발이 가능한 분 React, Vue.js 등 프론트개발..."
+job_8fd9ce3f217e75ee,[동영상플랫폼] 플랫폼서버 개발자 모집,카카오4.0성남 판교역,,플레이 워크플로우 관리 및 개발 플랫폼 모니터링 시스템 지원자격 [최소 자격] 개발 경력 2년 이상 golang으로 프로젝트 진행 경험이 있는 분 네트워크 프로그래밍 경험이 있는 분 메세지 큐를 활용한 마이크로서비스...
+job_27f1fd44afefb4aa,[인재 POOL 등록] 개발자 상시채용,고도소프트서울 구로구,,사용 능력이 우수하신 분 [DevOps 개발자] -경력 2년 이상 -Java/Kotlin/Python/ Golang 개발환경 경험이 있으신 분 -Linux 환경의 서비스 경험이 있으신 분 -새로운 환경을 익히는 것에 즐거움을...
+job_b4a7ac21faba2e67,검색 인프라 엔지니어,당근마켓서울 서초구,,"근하고 관리해요 이런 분을 찾고 있어요 널리 쓰이는 프로그래밍 언어( Golang, java, python, c++, javascript 등) 한 가지... 시는 분 이런 분이면 더 좋아요! Golang 개발 경험이 있으신 분대규모..."
+job_f1d1ecd9e101903a,[LINE FRIENDS] Backend Server Engineer (Character Platform),라인프렌즈서울 용산구,,컴퓨터 공학 학사 또는 이에 준하는 실무 경험이 있으신 분- MSA 설계 및 개발 경험이 있으신 분- Golang 또는 다른 언어를 사용한 프로젝트 개발 경험이 있으신 분- RESTful API 대한 이해 및 사용 경험이...
+job_a3c4a6f785f437d1,지리정보 플랫폼 개발자,당근마켓서울 서초구,,"Service) 개발 경험을 보유하신 분 ArcGIS, QGIS 등 map editor 사용 및 활용 경험이 있으신 분 Golang 사용 및 활용 경험이 있으신 분 인터넷·IT·통신·모바일·게임>통신·모바일>플랫폼(VM)"
+job_34d826908be45b5e,[NAVER Cloud] Blockchain 서비스 개발,네이버서울,,"프로젝트 경험 - dApp 및 smartcontract 개발 경험(java, node, golang 중 1개) - Spring framework 및 golang 이용한 Application 개발 경험 [지원자격/ 우대사항..."
+job_6f9c4c57f821363e,[뉴플랫폼기술] 클라우드 개발자 - Kubernetes,한국카카오은행성남 분당구,,"Orchestration 운영 경험이 1년 이상인 분· Cloud 환경에서 서비스 구축 및 운영 경험이 있는 분· Golang, Python, NodeJS, Java 중 하나이상 프로그래밍 언어에 익숙한 분 인터넷·IT·통신..."
+job_f862c821b0734933,[NAVER Cloud] Media 서비스 개발,네이버서울,,"tcpdump, wireshark 등의 툴로 네트워크 및 패킷 분석 가능하신 분 - Java, Kotlin, Golang, C, C++, Python, node.js, typescript 등으로 작성된 코드 및 프레임워크를..."
+job_5ea9ea023c6ccc03,"S/W 엔지니어, 데이터분석 신입/경력 정규직, 인턴",가치랩스성남 분당구,,"시스템, 서버, 어플리케이션 제작 및 유지보수 업무- Python, Golang, QT 중 선택 가능3. 영상데이터 분석 및 모델링- 영상 데이터... 시스템프로그래머- Python, Golang, QT 중 선택 가능3. 영상..."
+job_94f677b692f3a539,블록체인 기술 리더,한화시스템서울,,"아키텍트 경험 3년 이상 (기업 시스템 SI, 서비스 시스템)○ SW 개발 경력 7년 이상 (java, Golang, NodeJs, TypeScript, RDBMS, NoSQL 등)○ 업무 SW 설계 경력 3년 이상 (UML..."
+job_84acbce756f138ed,블록체인 기술 리더 채용,한화그룹4.2서울,,"아키텍트 경험 3년 이상 (기업 시스템 SI, 서비스 시스템) SW 개발 경력 7년 이상 (java, Golang, NodeJs, TypeScript, RDBMS, NoSQL 등) 업무 SW 설계 경력 3년 이상 (UML..."
+job_8c32b5db8ab28c7d,"[광고 추천] 데이터 과학자, 기계학습(머신러닝) 전문가 모집",카카오4.0성남 판교역,,"분 하나 이상의 프로그래밍 언어에 능통한 분 (예, Python, R, Java, Scala, C/C++, Golang 등) 단, 주니어는 기계학습 기초 지식과 개발 역량이 있는 분 <선호 자격 조건> 전공/학위 무관. 단..."
+job_3cf01580ba5eb23a,NLP Researcher,AITRICS서울,,"Stacks [Back-end] Language: python, golang Python Framework: Django, Bottle [Front... Language: python, golang Python Framework..."
+job_17f88502b8fc4881,[NAVER Cloud] 클라우드 네트워크 솔루션 및 SDN 기술 개발,네이버서울,,Network 관련 연구/개발/운영 [지원자격/ 필요역량] - Network 관련 기반 지식 보유 - Golang or C 를 이용한 Network 관련 개발 경험 [ 우대사항] - Public Cloud 운영/개발 경험...
+job_8da5c72baf146123,Site Engineer (Seoul),Motion2AI서울,,분을 찾고 있습니다. 지원자격 필수조건 Linux/Windows 시스템 능숙 C++/Python/ Golang 등 코드 컴파일 및 디버깅 경험 우대조건 물류관련 프로젝트 경험 CS 및 관련 학과 출신 PostgreSQL...
+job_3769c08586c04026,[인재 POOL ] 개발자 상시,NHN COMMERCE] [인재 POOL 등록4.4서울 구로구,,CI / CD 환경 구축 - 플랫폼 보안 관리 - 경력 2년 이상 - Java/Kotlin/Python/ Golang 개발환경 경험이 있으신 분 - Linux 환경의 서비스 경험이 있으신 분 - 새로운 환경을 익히는...
