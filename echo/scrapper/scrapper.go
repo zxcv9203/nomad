@@ -1,4 +1,4 @@
-package main
+package scrapper
 
 import (
 	"encoding/csv"
@@ -12,8 +12,6 @@ import (
 	"github.com/PuerkitoBio/goquery"
 )
 
-var baseURL string = "https://kr.indeed.com/jobs?q=golang&l=%EC%84%9C%EC%9A%B8"
-
 type extractedJob struct {
 	id       string
 	location string
@@ -22,12 +20,13 @@ type extractedJob struct {
 	summary  string
 }
 
-func main() {
+func Scrape(term string) {
+	var baseURL string = "https://kr.indeed.com/jobs?q=" + term
 	var jobs []extractedJob
 	c := make(chan []extractedJob)
-	totalPages := getPages()
+	totalPages := getPages(baseURL)
 	for i := 0; i < totalPages; i++ {
-		go getPage(i, c)
+		go getPage(i, baseURL, c)
 	}
 	for i := 0; i < totalPages; i++ {
 		job := <-c
@@ -62,14 +61,14 @@ func writeJobs(jobs []extractedJob) {
 	}
 }
 
-func cleanString(str string) string {
+func CleanString(str string) string {
 	return strings.Join(strings.Fields(strings.TrimSpace(str)), " ")
 }
 
-func getPage(page int, cc chan<- []extractedJob) {
+func getPage(page int, url string, cc chan<- []extractedJob) {
 	var jobs []extractedJob
 	c := make(chan extractedJob)
-	pageURL := baseURL
+	pageURL := url
 	if page != 0 {
 		pageURL += "&start=" + strconv.Itoa(page*10)
 	}
@@ -94,10 +93,10 @@ func getPage(page int, cc chan<- []extractedJob) {
 
 func extractJob(card *goquery.Selection, c chan<- extractedJob) {
 	id, _ := card.Attr("id")
-	title := cleanString(card.Find("h2>span").Text())
-	location := cleanString(card.Find("div pre").Text())
-	salary := cleanString(card.Find(".salary-snippet").Text())
-	summary := cleanString(card.Find(".job-snippet").Text())
+	title := CleanString(card.Find("h2>span").Text())
+	location := CleanString(card.Find("div pre").Text())
+	salary := CleanString(card.Find(".salary-snippet").Text())
+	summary := CleanString(card.Find(".job-snippet").Text())
 	c <- extractedJob{
 		id:       id,
 		title:    title,
@@ -106,9 +105,9 @@ func extractJob(card *goquery.Selection, c chan<- extractedJob) {
 		summary:  summary,
 	}
 }
-func getPages() int {
+func getPages(url string) int {
 	pages := 0
-	resp, err := http.Get(baseURL)
+	resp, err := http.Get(url)
 	checkErr(err)
 	checkCode(resp.StatusCode)
 	doc, err := goquery.NewDocumentFromReader(resp.Body)
